@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { IconContext } from 'react-icons';
-import { DiFsharp } from 'react-icons/di'
+import { DiFsharp } from 'react-icons/di';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import '../Styles/Navbar.css';
