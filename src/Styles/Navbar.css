@@ -130,6 +130,9 @@
         top: 0;
         left: 0;
         transform: translate(25%, 50%);
+        font-size: 1.5em;
+        margin-top: 3px;
+        margin-left: -20px;
     }
 
     .menu-icon {
