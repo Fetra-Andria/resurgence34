@@ -30,7 +30,7 @@ const Navbar = () => {
       <nav className="navbar">
         <div className="navbar-container container">
           <Link to="/" className="navbar-logo">
-            RESURGENCE34
+            RESURGENCES34
             <DiFsharp className="navbar-icon" />
           </Link>
           <div className="menu-icon" onClick={handleClick}>
