@@ -43,10 +43,10 @@ function Footer() {
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               <DiFsharp className='navbar-icon' />
-              RESURGENCE 34
+              RESURGENCES 34
             </Link>
           </div>
-          <small className='website-rights'>RESURGENCE 34 © 2020</small>
+          <small className='website-rights'>RESURGENCES 34 © 2020</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link'
